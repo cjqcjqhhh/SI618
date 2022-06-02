@@ -1,0 +1,26 @@
+80-HR-1	HR	To reduce individual income tax payments	0	80	1947	1	1	0
+80-HR-2	HR	To amend the Armed Forces Leave Act of 1946 by providing optional cash payment of terminal leave bonds, and for other purposes	0	80	1947	0	0	0
+80-HR-3	HR	To amend the Armed Forces Leave Act of 1946 to permit future applicants to elect to be compensated for terminal leave in cash in lieu of bonds, to provide that bonds issued under such act shall be redeemable at any time, and for other purposes	0	80	1947	0	0	0
+80-HR-4	HR	To safeguard the admission of evidence in certain cases	0	80	1947	1	0	0
+80-HR-5	HR	To protect honorably discharged veterans in their rights to join or refrain from joining labor and other organizations	0	80	1947	0	0	0
+80-HR-6	HR	To amend the Armed Forces Leave Act of 1946 to provide that bonds issued under such act shall be redeemable at any time	0	80	1947	0	0	0
+80-HR-7	HR	Making unlawful the requirement for the payment of a poll tax as a prerequisite to voting in a primary or other election for national officers	0	80	1947	0	0	0
+80-HR-8	HR	To amend and revise, an act Approved July 5, 1935, entitled An act to diminish the causes of labor disputes burdening or obstructing interstate and foreign commerce, to create a National Labor Relations Board, and for other purposes;	0	80	1947	0	0	0
+80-HR-9	HR	To authorize the acquisition of forest lands adjacent to and over which highways, roads, or trails are constructed or to be constructed wholly or partially with Federal funds in order to preserve or restore their natural beauty, and for other purposes	0	80	1947	0	0	0
+80-HR-10	HR	Relating to the taxation by State and local taxing units of certain real property sold by the United States	0	80	1947	0	0	0
+80-HR-11	HR	Making appropriations for the establishment of a national cemetery in the vicinity of Portland, Oreg	0	80	1947	0	0	0
+80-HR-12	HR	To amend the Railroad Retirement Act of 1937 so as to provide for payment of benefits with respect to the month in which an annuitant or pensioner dies	0	80	1947	0	0	0
+80-HR-13	HR	Approving the agreement between the United States and Canada relating to the Great Lakes St. Lawrence Basin with the exception of certain provisions thereof; expressing the sense of the Congress with respect to the negotiation of certain treaties; authori	0	80	1947	0	0	0
+80-HR-14	HR	Providing for taxation by the States and their political subdivisions of certain real property acquired for military purposes	0	80	1947	0	0	0
+80-HR-15	HR	To establish a Commission on Taxation in the United States	0	80	1947	0	0	0
+80-HR-16	HR	To provide . every adult citizen in the United States with equal basic Federal insurance, permitting retirement with benefits at age 60, and also covering total disability, from whatever cause, for certain citizens under 60; to give protection to widows w	0	80	1947	0	0	0
+80-HR-17	HR	To declare and protect the rights of the public when labor disputes result in, or threaten to result in, danger to public health or safety	0	80	1947	0	0	0
+80-HR-18	HR	To make the workmens compensation laws of Alaska applicable to land and premises of the United States in such Territory	0	80	1947	0	0	0
+80-HR-19	HR	To extend the benefits of the Mustering Out Payment Act of 1944 to certain veterans discharged or relieved from active service prior to December 7, 1941	0	80	1947	0	0	0
+80-HR-20	HR	To extend the coverage of Federal old age and survivors insurance to self employed individuals	0	80	1947	0	0	0
+80-HR-21	HR	To provide for Federal participation in the financing of certain aeronautical developments	0	80	1947	0	0	0
+80-HR-22	HR	Relating to the furnishing of transportation and housing facilities for the immediate families of members of the armed forces on duty outside the United States	0	80	1947	0	0	0
+80-HR-23	HR	To extend certain benefits of the Servicemens Readjustment Act of 1944 to widows of veterans and to wives of certain totally and permanently disabled veterans	0	80	1947	0	0	0
+80-HR-24	HR	To provide that postmasters shall be reimbursed for certain incidental expenses of third and fourth class post offices	0	80	1947	0	0	0
+80-HR-25	HR	To provide a pension for certain physically handicapped veterans of World War I and World War 11	0	80	1947	0	0	0
+80-HR-26	HR	Granting pensions to veterans, and the widows and dependent children of veterans, of the World War equivalent to pensions granted to veterans and the widows and dependent children of veterans, of the war with Spain	0	80	1947	0	0	0
