@@ -1,0 +1,4 @@
+toxic_1	0.92
+toxic_2	0.48
+toxic_3	0.12
+targeted	1.0

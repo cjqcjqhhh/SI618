@@ -1,3 +1,4 @@
 *.csv
 *.tsv
+*.html
 **/.ipynb_checkpoints/
